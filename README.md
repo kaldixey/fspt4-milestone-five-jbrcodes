@@ -35,7 +35,7 @@ This assessment tests your understanding of building a full stack app using Reac
 
 Create a webpage with the following functionality:
 
-- [ ] A list of students.
+- [x] A list of students.
 - [ ] A form to add new students. There should be fields to input the first and last names, separately.
   - After submitting the form, the new student should be added to the database and displayed on the page.
 - [ ] Each student can be deleted with a delete button. After clicking on this button, student should be deleted from the database and the updated list of students shown on the page
@@ -81,10 +81,12 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 
 ### 1. API Endpoints & MySQL
 
-- Grade:
+- Grade: I don't know how close I was!! 1?
 - Explanation:
 
 ### 2. Frontend
 
-- Grade:
+- Grade: Probably 1?
 - Explanation:
+
+Sorry this was a disaster :( stopped after 2h15 as I wasn't getting anywhere. I feel like part of my problem here is that I just don't memorise code very easily and the newer stuff isn't consolidated in my brain so I'm too reliant on googling things and looking at examples. Basically I just got super stressed, I like to think my 'normal' ability isn't this bad but maybe I need to change how I work or learn stuff.
